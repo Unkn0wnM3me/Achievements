@@ -1,2 +1,1 @@
-# Achievements
-For achievements only.
+# Achievements!
